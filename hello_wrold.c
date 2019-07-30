@@ -2,7 +2,7 @@
 
 int sum(int a, int b)
 {
-	return a+b;
+	return (int)(a+b);
 }
 
 int main()
