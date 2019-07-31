@@ -1,6 +1,12 @@
 // Fundational calculation
 #include <stdio.h>
 
+// multiple a to b
+int multiple(int a, int b)
+{
+    return a*b;
+}
+
 int subtraction(int a, int b)
 {
     return a-b;
